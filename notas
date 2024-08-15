@@ -1,0 +1,7 @@
+Crear un programa que imprima los números del 1 al 10, y luego indique cuales números son mayores que 5.
+
+1- definir variables (variables para contar cuantos números son mayores que 5)
+2-Usar un ciclo para imprimir los numeros (usar un ciclo for para imprimir los npumeros del 1 al 10)
+3-contar los numeros mayores que 5 (usar una condicional if dentro del ciclo para contar cuantos números son mayores que 5)
+4-Mostrar el resultado (imprimir el conteo de numeros mayores que 5)
+
